@@ -1,0 +1,4 @@
+
+g
+java:S2095 "LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü‘ùİ8Áú÷¹.

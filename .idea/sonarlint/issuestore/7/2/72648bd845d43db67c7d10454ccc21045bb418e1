@@ -1,0 +1,20 @@
+
+^	java:S125 "<This block of commented-out lines of code should be removed.(Þðºÿøÿÿÿÿ8²Ê€’».
+]	java:S125N"<This block of commented-out lines of code should be removed.(Á¤–Áûÿÿÿÿ8µŸ’».
+`
+java:S1854">Remove this useless assignment to local variable "middleList".(½½Ðâùÿÿÿÿ8ƒö—’».
+Q
+java:S1481"/Remove this unused "middleList" local variable.(½½Ðâùÿÿÿÿ8ƒö—’».
+^	java:S125˜"<This block of commented-out lines of code should be removed.(Ž÷•Àýÿÿÿÿ8‡îù‘».
+t
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(çøƒñüÿÿÿÿ8‡îù‘».
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ùô˜„8‡îù‘».
+K
+java:S1481".Remove this unused "angleList" local variable.(•œ8ƒö—’».
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(¥ôšÅ8úÁÜ£º.
+^	java:S125œ"<This block of commented-out lines of code should be removed.(ÍÑ„“ùÿÿÿÿ8‡îù‘».
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ–¿&
+]	java:S125S"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8³ÆŸ’».
+Z
+java:S1854"=Remove this useless assignment to local variable "angleList".(•œ8ƒö—’».

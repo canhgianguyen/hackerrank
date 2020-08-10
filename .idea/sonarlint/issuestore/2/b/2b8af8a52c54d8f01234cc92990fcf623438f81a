@@ -1,0 +1,6 @@
+
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(‰×í°8×©“ï¹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÉŽ øÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÝ •ÿÿÿÿÿ8»á°ï¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜«èŽ8»á°ï¹.
